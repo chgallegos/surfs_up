@@ -1,6 +1,8 @@
 # Adding ignores
 /module_work
 /.ipynb_checkpoints
+/__pycache__
+.DS_Store
 
 *.gem
 *.rbc
