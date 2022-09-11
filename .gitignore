@@ -1,6 +1,7 @@
 # Adding ignores
 /module_work
 /.ipynb_checkpoints
+.ipynb_checkpoints
 /__pycache__
 .DS_Store
 app.py
