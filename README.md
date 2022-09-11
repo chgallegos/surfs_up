@@ -9,15 +9,15 @@ The purpose of this analysis was to retrieve and analize data for two months of 
 
 The first part of this analysis required a query extracting temperature observations for the month of June.
 
-![Screenshot](Main analysis)
+![Screenshot](https://github.com/chgallegos/surfs_up/blob/main/resources/main_analysis.png)
 
 Subsequently, the data that was provided needed to be put into a list format
 
-![Screenshot] (Main_analysis_list)
+![Screenshot](https://github.com/chgallegos/surfs_up/blob/main/resources/main_analysis_list.pdf)
 
 And lastly, a dataframe with the descriptive analysis was provided in order to summarize the data.
 
-![Screenshot] (Df_description)
+![Screenshot](https://github.com/chgallegos/surfs_up/blob/main/resources/Df_description.png)
 
 
 ----
@@ -28,7 +28,7 @@ To sumarize, this data that was requested can definitely help the board to under
 For this, the following two queries would apply: 
 
 Precipitations for June
-![Screenshot] (June Rains)
+![Screenshot](https://github.com/chgallegos/surfs_up/blob/main/resources/june_rains.png)
 
 Precipitations for December
-![Screenshot] (December Rains)
+![Screenshot](https://github.com/chgallegos/surfs_up/blob/main/resources/december_rains.png)
